@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/diary-app-react/static/css/main.1eff3df1.css",
+    "main.js": "/diary-app-react/static/js/main.91c51718.js",
+    "static/media/books.jpg": "/diary-app-react/static/media/books.437e93dc7edbc2c3d39e.jpg",
+    "index.html": "/diary-app-react/index.html",
+    "main.1eff3df1.css.map": "/diary-app-react/static/css/main.1eff3df1.css.map",
+    "main.91c51718.js.map": "/diary-app-react/static/js/main.91c51718.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1eff3df1.css",
+    "static/js/main.91c51718.js"
+  ]
+}
